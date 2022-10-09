@@ -1,0 +1,3 @@
+D:\Github\Cs_Cpp_Interopability\Tryout\CLR_DEMO\x64\Debug\CLR_DEMO.vcxproj.AssemblyReference.cache
+D:\Github\Cs_Cpp_Interopability\Tryout\CLR_DEMO\x64\Debug\CLR_DEMO.vcxproj.SuggestedBindingRedirects.cache
+D:\Github\Cs_Cpp_Interopability\Tryout\CLR_DEMO\x64\Debug\CLR_DEMO.exe

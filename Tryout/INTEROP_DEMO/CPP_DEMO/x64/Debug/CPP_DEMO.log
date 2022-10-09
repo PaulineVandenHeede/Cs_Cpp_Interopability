@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+  Functions.cpp
+  pch.cpp
+  Wrapper.cpp
+  Generating Code...
+     Creating library D:\Github\Cs_Cpp_Interopability\Tryout\INTEROP_DEMO\CPPLibrary\Debug\CPPLibrary.lib and object D:\Github\Cs_Cpp_Interopability\Tryout\INTEROP_DEMO\CPPLibrary\Debug\CPPLibrary.exp
+  CPP_DEMO.vcxproj -> D:\Github\Cs_Cpp_Interopability\Tryout\INTEROP_DEMO\CPPLibrary\Debug\CPPLibrary.dll
+  D:\Github\Cs_Cpp_Interopability\Tryout\INTEROP_DEMO\CPPLibrary\Debug\CPPLibrary.dll
+  1 File(s) copied

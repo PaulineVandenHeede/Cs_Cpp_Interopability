@@ -63,3 +63,5 @@ Library
 .vs
 Logs
 obj
+Temp
+bin

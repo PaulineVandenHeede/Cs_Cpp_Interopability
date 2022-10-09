@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+  GameBridge.cpp
+D:\Github\Cs_Cpp_Interopability\Project\CPPLibrary\GameBridge.cpp(20,2): warning C4190: 'MarshalVector2Return' has C-linkage specified, but returns UDT 'CppLibrary::Vector2' which is incompatible with C
+D:\Github\Cs_Cpp_Interopability\Project\CPPLibrary\GameLogic.h(14): message : see declaration of 'CppLibrary::Vector2'
+D:\Github\Cs_Cpp_Interopability\Project\CPPLibrary\GameBridge.cpp(30,2): warning C4190: 'MarshalGameObjectReturn' has C-linkage specified, but returns UDT 'CppLibrary::GameObject' which is incompatible with C
+D:\Github\Cs_Cpp_Interopability\Project\CPPLibrary\GameLogic.h(44): message : see declaration of 'CppLibrary::GameObject'
+  dllmain.cpp
+  Generating Code...
+D:\Github\Cs_Cpp_Interopability\Project\CPPLibrary\GameLogic.h(196): warning C4172: returning address of local variable or temporary
+     Creating library D:\Github\Cs_Cpp_Interopability\Project\CPPLibrary\Debug\CPPLibrary.lib and object D:\Github\Cs_Cpp_Interopability\Project\CPPLibrary\Debug\CPPLibrary.exp
+  CPPLibrary.vcxproj -> D:\Github\Cs_Cpp_Interopability\Project\CPPLibrary\Debug\CPPLibrary.dll
+  D:\Github\Cs_Cpp_Interopability\Project\CPPLibrary\Debug\CPPLibrary.dll
+  1 File(s) copied
